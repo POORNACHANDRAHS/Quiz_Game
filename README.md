@@ -20,7 +20,7 @@ To run the quiz game on your local machine, simply clone the repository and exec
 ```bash
 git clone https://github.com/POORNACHANDRAHS/Quiz_Game.git
 cd Quiz_Game
-python Quiz_Game.py
+python quiz.py
 ```
 
 ### 🛠️ Project Structure
